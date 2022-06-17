@@ -1,4 +1,4 @@
-# PEO-Part1-
+# ST10101748 Laure Lunyusi Mabulay PEO-Part1-
 Login and registration features
 public class peoTestresult {
     public String userName;
